@@ -1,0 +1,19 @@
+.mp_title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightskyblue;
+    text-align: center;
+    color: black;
+    margin: auto;
+    padding: 30px;
+    border: 10px ridge;
+    border-color: black;
+}
+
+.mp_recipes {
+    background-color: green;
+    margin: 10px;
+    border: 5px solid;
+    border-color: black;
+    text-align: center;
+    padding: 10px;
+}
